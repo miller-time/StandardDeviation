@@ -1,0 +1,8 @@
+StdDeviation
+
+author: Russell Miller
+
+v0.1
+
+Calculate the standard deviation of a set of numbers.
+They should be in a plain text file with each number on its own line.
