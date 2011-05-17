@@ -5,7 +5,7 @@ setup(
     version="0.1",
     description="Calculate standard deviation",
     author="Russell Miller",
-    install_requires=['argparse',]
+    install_requires=['argparse',],
     packages=find_packages(),
     entry_points=
         """
