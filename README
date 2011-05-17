@@ -2,7 +2,14 @@ StdDeviation
 
 author: Russell Miller
 
-v0.1
+v0.9
+----------------------------------------------------------------------
+Now instead of just printing the average it calculates the standard
+deviation. 
+Also added feature to check 68-95-99.7 rule. Well, it just tells you
+the percentages.
 
+v0.1
+----------------------------------------------------------------------
 Calculate the standard deviation of a set of numbers.
 They should be in a plain text file with each number on its own line.
