@@ -2,7 +2,7 @@ from setuptools import setup,find_packages
 
 setup(
     name="stddeviation",
-    version="0.1",
+    version="0.9",
     description="Calculate standard deviation",
     author="Russell Miller",
     install_requires=['argparse',],

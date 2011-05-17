@@ -1,0 +1,7 @@
+$ stddeviation randomdata.txt
+
+ Mean: 454.62
+ 1 Standard Deviation: 289.084755046
+ Within 1 standard deviation: 78.0%
+ Within 2 standard deviations: 100.0%
+ Within 3 standard deviations: 100.0%
